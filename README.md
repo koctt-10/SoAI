@@ -31,7 +31,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone [<repository-url>](https://github.com/koctt-10/SoAI.git)
+git clone (https://github.com/koctt-10/SoAI.git)
 cd neural-networks-labs
 
 # Создание виртуального окружения (рекомендуется)
